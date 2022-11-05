@@ -18,9 +18,11 @@ body{
     
 }
 
+
 .active{
     color:#80673C;
 }
+
 
 #title{
     background:url(../images/bg3.jpg) rgba(0, 0, 0, 0.75) ;
@@ -33,7 +35,7 @@ body{
     display: flex;
 }
 
-#title .container-fluid{
+#title {
     display: flex;
     flex-direction: column;
     padding: 1em 1em 3em;
